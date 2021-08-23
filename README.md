@@ -1,2 +1,2 @@
-# Azure-Deploymt
-Deploying model via Microsoft Azure
+# Azure-Deployment
+Deploying Machine Learning Models via Microsoft Azure
